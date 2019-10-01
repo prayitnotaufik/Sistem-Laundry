@@ -15,6 +15,7 @@ public class FormLogin extends javax.swing.JFrame {
     
     private static Connection koneksi;
     private DefaultTableModel model;
+    private String user;
 
     /**
      * Creates new form FormLogin
